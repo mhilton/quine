@@ -1,0 +1,3 @@
+Simple self printing program written in go. Just for my own amusement. Go does most of the complex work for you with it's %q format. It can be installed using:
+
+go get github.com/mhilton/quine
